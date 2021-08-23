@@ -8,7 +8,6 @@
 - 4 players
 - water buffalo control points
 ## dock flower ##
-- 2 players
 ![dock flower.png](dock-flower.png)
 - 5 players
 - docks are control points
@@ -70,6 +69,7 @@
 - 3 players
 ## 4p-really-big-map ##
 ![4p-really-big-map.png](4p-really-big-map.png)
+- 4 player
 - wow this map is big
 - empty too, your base will need to be spread out
 ## 5 sheep ##
@@ -85,6 +85,7 @@
 - one player on each side has 50 pop
 ## bb ##
 ![bb.png](bb.png)
+- 2 player
 ## inertia_tiny2_v005 ##
 ![inertia_tiny2_v005.png](inertia_tiny2_v005.png)
 - 4 players
