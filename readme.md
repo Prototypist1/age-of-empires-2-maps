@@ -12,11 +12,13 @@
 ## waves-2 ##
 ![waves-2.png](waves-2.png)
 - 5 players
+- your are allied to the players next to you
 - played in rounds
+- military units die at the end of each round
 - units build very quickly
 - no economy 
 - merchants spawn every round
-- kill merchants to win
+- kill 50 merchants to win
 ## sheep-wars-4-3 ##
 ![sheep-wars-4-3.png](sheep-wars-4-3.png)
 - 4 players
