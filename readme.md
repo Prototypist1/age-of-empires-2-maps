@@ -9,8 +9,8 @@
 - played in rounds
 - has an arena you can telliport units to
 - kill the other teams city wall to win the round
-## waves-2 ##
-![waves-2.png](waves-2.png)
+## waves-2-1 ##
+![waves-2-1.png](waves-2.png)
 - 5 players
 - your are allied to the players next to you
 - played in rounds
