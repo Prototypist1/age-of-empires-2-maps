@@ -114,3 +114,9 @@
 - you have 3 rams that each spawn a single unit type
 - the unit types depend on your color
 - cross the lake and return to win
+## stone race ##
+![stone-race.png](stone-race.png)
+- be the first to mine your patch of stone to win
+- 100 pop limit
+- start in castle age
+- bases have abnormally strong walls and towers
