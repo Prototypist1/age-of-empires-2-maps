@@ -120,3 +120,12 @@
 - 100 pop limit
 - start in castle age
 - bases have abnormally strong walls and towers
+## berry wars ##
+![8p-berry-wars.png](8p-berry-wars.png)
+- 4 v 4
+- harvest berries to win
+- no econ
+- played in rounds
+- first team to win 3 rounds wins
+- players 1 and 2 get stone
+- players 3 and 4 get free villigers
