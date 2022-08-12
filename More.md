@@ -132,6 +132,7 @@
 ## win fights ##
 ![p5-win-fights-2.png](p5-win-fights-2.png)
 - 1 v 1 v 1 v 1
-- steel a cow from each other player to win
+- steal a cow from each other player to win
 - off map production
-- our army spawns 
+- our army spawns with a cow
+- when you loose your cow you loose you army and get money to buy a new one
