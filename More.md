@@ -129,3 +129,9 @@
 - first team to win 3 rounds wins
 - players 1 and 2 get stone
 - players 3 and 4 get free villigers
+## win fights ##
+![p5-win-fights-2.png](p5-win-fights-2.png)
+- 1 v 1 v 1 v 1
+- steel a cow from each other player to win
+- off map production
+- our army spawns 
